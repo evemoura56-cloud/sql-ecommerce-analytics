@@ -1,0 +1,11 @@
+# PostgreSQL
+*.log
+*.pid
+*.backup
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
