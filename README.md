@@ -317,27 +317,27 @@ SELECT 'metricas_diarias', COUNT(*) FROM metricas_diarias;
 
 ### 🗂️ Estrutura do Projeto no VSCode
 <!-- Adicione aqui: print da estrutura de pastas no VSCode -->
-![Estrutura de Arquivos](prints\estrutura_vscode.png)
+![Estrutura de Arquivos](prints/estrutura_vscode.png)
 
 ### 🗄️ Tabelas Criadas no DBeaver
 <!-- Adicione aqui: print do painel lateral do DBeaver mostrando as 4 tabelas -->
-![Tabelas no DBeaver](prints\tabelas.png)
+![Tabelas no DBeaver](prints/tabelas.png)
 
 ### 📊 Query 1: Análise 360º de Pedidos
 <!-- Adicione aqui: print do resultado da query 1 -->
-![Query Análise 360º](prints\resultado_query_1.png)
+![Query Análise 360º](prints/resultado_query_1.png)
 
 ### 🏆 Query 2: Ranking de Vendedores
 <!-- Adicione aqui: print do resultado da query 2 -->
-![Performance Vendedores](prints\resultado_query_2.png)
+![Performance Vendedores](prints/resultado_query_2.png)
 
 ### 🎯 Query 10: Segmentação RFM
 <!-- Adicione aqui: print do resultado da query 10 -->
-![Segmentação RFM](prints\resultado_query_10.png)
+![Segmentação RFM](prints/resultado_query_10.png)
 
 ### 💻 Código SQL no VSCode
 <!-- Adicione aqui: print de um dos arquivos SQL aberto no VSCode -->
-![Código SQL](prints\codigo_sql.png)
+![Código SQL](prints/codigo_sql.png)
 
 ---
 
