@@ -379,11 +379,26 @@ Este projeto pode ser aplicado em:
 
 ---
 
+## 📊 Dashboard Interativo
+
+Visualize os dados em tempo real através do dashboard desenvolvido no Looker Studio:
+
+### 🎯 [**Acesse o Dashboard Ao Vivo**](COLE_SEU_LINK_AQUI)
+
+![Dashboard Preview](./prints/dashboard_preview.png)
+
+**Recursos disponíveis:**
+- 📈 4 KPIs principais em tempo real
+- 📊 7 visualizações interativas
+- 🎛️ Filtros dinâmicos (período, segmento, vendedor)
+- 📥 Exportação de dados em PDF/CSV
+- 🔄 Drill-down em todos os gráficos
+
+---
+
 ## 📈 Próximos Passos
 
-- [ ] Integração com Power BI / Looker Studio
 - [ ] API FastAPI para consulta de dados
-- [ ] Dashboard interativo com visualizações
 - [ ] Testes de performance com dataset maior (10k+ registros)
 - [ ] Stored Procedures para automação
 - [ ] Views materializadas para queries frequentes

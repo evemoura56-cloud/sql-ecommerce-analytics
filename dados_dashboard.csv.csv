@@ -1,0 +1,16 @@
+"pedido_id","data_pedido","cliente","cidade","estado","segmento","valor_total","desconto","valor_liquido","status_pedido","forma_pagamento","vendedor","transportadora","status_entrega","custo_frete","data_envio","data_entrega_real","prazo_entrega_dias"
+1,2025-05-10,Ana Silva,São Paulo,SP,Premium,1500.00,150.00,1350.00,Entregue,Crédito,Vendedor A,Loggi,Entregue,25.00,2025-05-11,2025-05-14,3
+2,2025-05-12,Bruno Costa,Rio de Janeiro,RJ,Regular,800.00,0.00,800.00,Entregue,PIX,Vendedor B,Correios,Entregue,15.00,2025-05-13,2025-05-16,3
+3,2025-05-15,Carla Mendes,Belo Horizonte,MG,Bronze,450.00,50.00,400.00,Enviado,Débito,Vendedor A,Jadlog,Em trânsito,20.00,2025-05-16,,
+4,2025-05-18,Daniel Souza,Curitiba,PR,Premium,2200.00,200.00,2000.00,Entregue,Crédito,Vendedor C,Loggi,Entregue,30.00,2025-05-19,2025-05-22,3
+6,2025-05-22,Ana Silva,São Paulo,SP,Premium,1200.00,100.00,1100.00,Entregue,PIX,Vendedor A,Correios,Entregue,18.00,2025-05-23,2025-05-26,3
+8,2025-05-28,Gabriela Santos,Salvador,BA,Premium,1800.00,180.00,1620.00,Entregue,Crédito,Vendedor A,Loggi,Entregue,28.00,2025-05-29,2025-06-01,3
+9,2025-06-01,Henrique Rocha,Recife,PE,Regular,950.00,0.00,950.00,Enviado,PIX,Vendedor B,Jadlog,Em trânsito,22.00,2025-06-02,,
+11,2025-06-08,João Pereira,São Paulo,SP,Premium,3000.00,300.00,2700.00,Entregue,Crédito,Vendedor A,Loggi,Entregue,35.00,2025-06-09,2025-06-12,3
+13,2025-06-12,Daniel Souza,Curitiba,PR,Premium,1900.00,150.00,1750.00,Entregue,Crédito,Vendedor C,Correios,Entregue,25.00,2025-06-13,2025-06-16,3
+14,2025-06-15,Gabriela Santos,Salvador,BA,Premium,1100.00,100.00,1000.00,Enviado,PIX,Vendedor A,Jadlog,Em trânsito,24.00,2025-06-16,,
+15,2025-06-18,João Pereira,São Paulo,SP,Premium,2500.00,250.00,2250.00,Entregue,Crédito,Vendedor B,Loggi,Entregue,32.00,2025-06-19,2025-06-22,3
+4,2025-05-18,Daniel Souza,Curitiba,PR,Premium,2200.00,200.00,2000.00,Entregue,Crédito,Vendedor C,Correios,Atrasado,20.00,2025-05-19,2025-05-25,6
+12,2025-06-10,Bruno Costa,Rio de Janeiro,RJ,Regular,750.00,0.00,750.00,Confirmado,PIX,Vendedor B,,,,,,
+10,2025-06-05,Isabela Martins,Fortaleza,CE,Bronze,400.00,40.00,360.00,Pendente,Débito,Vendedor C,,,,,,
+5,2025-05-20,Elaine Lima,Porto Alegre,RS,Regular,650.00,0.00,650.00,Confirmado,Boleto,Vendedor B,,,,,,
